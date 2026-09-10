@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/activity-points-management-system/static/css/main.31d31a6f.css",
+    "main.js": "/activity-points-management-system/static/js/main.b164a303.js",
+    "index.html": "/activity-points-management-system/index.html",
+    "main.31d31a6f.css.map": "/activity-points-management-system/static/css/main.31d31a6f.css.map",
+    "main.b164a303.js.map": "/activity-points-management-system/static/js/main.b164a303.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d31a6f.css",
+    "static/js/main.b164a303.js"
+  ]
+}
