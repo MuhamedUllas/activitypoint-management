@@ -1,0 +1,58 @@
+.categories h1 {
+  font-size: 1.7rem;
+}
+
+.categories__subtitle {
+  color: var(--ink-soft);
+  margin: 0.5rem 0 1.5rem;
+  max-width: 60ch;
+  font-size: 0.92rem;
+}
+
+.categories__grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+.category-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  border-top: 3px solid var(--brass);
+}
+
+.category-card__title {
+  font-size: 1.05rem;
+  margin-bottom: 0.5rem;
+}
+
+.category-card__description {
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+  line-height: 1.55;
+  min-height: 3.4em;
+}
+
+.category-card__footer {
+  margin-top: 1rem;
+  border-top: 1px solid var(--line-soft);
+  padding-top: 0.75rem;
+}
+
+.category-card__earned {
+  font-size: 1.3rem;
+  color: var(--brass);
+}
+
+.category-card__of {
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+}
+
+@media (max-width: 720px) {
+  .categories__grid {
+    grid-template-columns: 1fr;
+  }
+}

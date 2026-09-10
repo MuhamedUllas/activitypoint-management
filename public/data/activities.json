@@ -1,0 +1,145 @@
+[
+  {
+    "id": "A001",
+    "studentUid": "CS2101",
+    "title": "National Level Hackathon - SmartCity Hack",
+    "category": "technical",
+    "date": "2026-02-14",
+    "description": "Built a traffic-flow prediction prototype as part of a 3-member team; secured 2nd runner-up position.",
+    "pointsClaimed": 15,
+    "pointsApproved": 15,
+    "status": "Approved"
+  },
+  {
+    "id": "A002",
+    "studentUid": "CS2101",
+    "title": "AWS Cloud Practitioner Certification",
+    "category": "technical",
+    "date": "2025-11-02",
+    "description": "Completed the official AWS Cloud Practitioner certification exam.",
+    "pointsClaimed": 10,
+    "pointsApproved": 10,
+    "status": "Approved"
+  },
+  {
+    "id": "A003",
+    "studentUid": "CS2101",
+    "title": "Inter-Department Badminton Tournament",
+    "category": "sports",
+    "date": "2026-01-20",
+    "description": "Represented the CSE department and reached the semi-finals of doubles.",
+    "pointsClaimed": 8,
+    "pointsApproved": 5,
+    "status": "Approved"
+  },
+  {
+    "id": "A004",
+    "studentUid": "CS2101",
+    "title": "Coding Club Secretary - Annual Term",
+    "category": "leadership",
+    "date": "2025-08-10",
+    "description": "Organised 6 workshops and 2 coding contests as secretary of the department coding club.",
+    "pointsClaimed": 12,
+    "pointsApproved": 0,
+    "status": "Pending"
+  },
+  {
+    "id": "A005",
+    "studentUid": "CS2101",
+    "title": "Beach Clean-up Drive",
+    "category": "social",
+    "date": "2026-03-01",
+    "description": "Participated in a coastal clean-up drive organised with a local NGO.",
+    "pointsClaimed": 5,
+    "pointsApproved": 5,
+    "status": "Approved"
+  },
+  {
+    "id": "A006",
+    "studentUid": "CS2101",
+    "title": "College Startup Pitch Fest",
+    "category": "entrepreneurship",
+    "date": "2025-12-05",
+    "description": "Pitched a campus food-ordering app idea; selected among top 10 teams.",
+    "pointsClaimed": 10,
+    "pointsApproved": 6,
+    "status": "Rejected"
+  },
+  {
+    "id": "A101",
+    "studentUid": "EC2033",
+    "title": "Robotics Workshop - Line Follower Bot",
+    "category": "technical",
+    "date": "2026-01-18",
+    "description": "Two-day hands-on workshop on building and programming line-follower robots.",
+    "pointsClaimed": 8,
+    "pointsApproved": 8,
+    "status": "Approved"
+  },
+  {
+    "id": "A102",
+    "studentUid": "EC2033",
+    "title": "University Athletics Meet - 400m",
+    "category": "sports",
+    "date": "2025-10-22",
+    "description": "Competed in the 400m sprint at the university-level athletics meet.",
+    "pointsClaimed": 12,
+    "pointsApproved": 12,
+    "status": "Approved"
+  },
+  {
+    "id": "A103",
+    "studentUid": "EC2033",
+    "title": "Classical Music Ensemble Performance",
+    "category": "cultural",
+    "date": "2026-02-28",
+    "description": "Performed at the annual cultural fest as part of the college music ensemble.",
+    "pointsClaimed": 6,
+    "pointsApproved": 0,
+    "status": "Pending"
+  },
+  {
+    "id": "A201",
+    "studentUid": "ME2077",
+    "title": "SAE BAJA Vehicle Design Team",
+    "category": "technical",
+    "date": "2025-09-15",
+    "description": "Core member of the chassis design sub-team for the SAE BAJA competition entry.",
+    "pointsClaimed": 20,
+    "pointsApproved": 20,
+    "status": "Approved"
+  },
+  {
+    "id": "A202",
+    "studentUid": "ME2077",
+    "title": "Blood Donation Camp Coordinator",
+    "category": "social",
+    "date": "2025-11-20",
+    "description": "Coordinated logistics for a campus-wide blood donation camp with 120+ donors.",
+    "pointsClaimed": 10,
+    "pointsApproved": 10,
+    "status": "Approved"
+  },
+  {
+    "id": "A203",
+    "studentUid": "ME2077",
+    "title": "Student Council Vice-President",
+    "category": "leadership",
+    "date": "2025-07-01",
+    "description": "Elected Vice-President of the student council for the academic year.",
+    "pointsClaimed": 18,
+    "pointsApproved": 18,
+    "status": "Approved"
+  },
+  {
+    "id": "A204",
+    "studentUid": "ME2077",
+    "title": "Inter-College Football Tournament",
+    "category": "sports",
+    "date": "2026-01-05",
+    "description": "Played as a defender for the college team; reached the quarter-finals.",
+    "pointsClaimed": 10,
+    "pointsApproved": 0,
+    "status": "Pending"
+  }
+]

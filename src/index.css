@@ -1,0 +1,81 @@
+:root {
+  --ink: #1b2a4a;
+  --ink-soft: #5b6478;
+  --paper: #eeede7;
+  --surface: #ffffff;
+  --line: #d8d3c7;
+  --line-soft: #e6e2d8;
+  --brass: #a9782f;
+  --brass-soft: #f1e6d2;
+  --success: #3f7d58;
+  --success-soft: #e4efe8;
+  --pending: #b8863b;
+  --pending-soft: #f6ecd9;
+  --rejected: #a24b4b;
+  --rejected-soft: #f5e6e6;
+
+  --font-serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --font-sans: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+
+  --radius: 3px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  margin: 0;
+  color: var(--ink);
+}
+
+a {
+  color: inherit;
+}
+
+button {
+  font-family: var(--font-sans);
+}
+
+input,
+select,
+textarea {
+  font-family: var(--font-sans);
+}
+
+::selection {
+  background: var(--brass-soft);
+}
+
+:focus-visible {
+  outline: 2px solid var(--brass);
+  outline-offset: 2px;
+}
+
+.numeral {
+  font-family: var(--font-serif);
+  font-variant-numeric: tabular-nums;
+}

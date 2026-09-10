@@ -1,0 +1,23 @@
+.status-pill {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 0.2rem 0.6rem;
+  border-radius: var(--radius);
+  letter-spacing: 0.01em;
+}
+
+.status-pill--success {
+  background: var(--success-soft);
+  color: var(--success);
+}
+
+.status-pill--pending {
+  background: var(--pending-soft);
+  color: var(--pending);
+}
+
+.status-pill--rejected {
+  background: var(--rejected-soft);
+  color: var(--rejected);
+}

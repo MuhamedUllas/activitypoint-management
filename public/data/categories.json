@@ -1,0 +1,38 @@
+[
+  {
+    "id": "technical",
+    "name": "Technical & Professional",
+    "description": "Workshops, certifications, hackathons, paper presentations, internships and technical club activities.",
+    "maxPoints": 40
+  },
+  {
+    "id": "sports",
+    "name": "Sports",
+    "description": "Inter-college and university-level tournaments, athletics meets and sports team representation.",
+    "maxPoints": 30
+  },
+  {
+    "id": "cultural",
+    "name": "Cultural Activities",
+    "description": "Music, dance, drama, fine arts and participation in cultural fests or competitions.",
+    "maxPoints": 30
+  },
+  {
+    "id": "social",
+    "name": "Social Service",
+    "description": "NGO work, blood donation camps, community outreach and environmental awareness drives.",
+    "maxPoints": 25
+  },
+  {
+    "id": "entrepreneurship",
+    "name": "Entrepreneurship",
+    "description": "Startup incubation, business plan competitions and innovation or product challenges.",
+    "maxPoints": 25
+  },
+  {
+    "id": "leadership",
+    "name": "Leadership",
+    "description": "Club or committee office, event organising and student council responsibilities.",
+    "maxPoints": 20
+  }
+]
